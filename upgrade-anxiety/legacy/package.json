@@ -1,0 +1,4 @@
+{
+  "main": "index.js",
+  "dependencies": { "bare-fs": "3.0.2" }
+}

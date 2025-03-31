@@ -1,0 +1,10 @@
+{
+  "name": "esm-cjs-interop-snippet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["example", "snippet", "esm", "cjs", "bare", "top-level await"],
+  "author": "Holepunch Inc",
+  "license": "Apache-2.0",
+  "description": "A snippet showing how Bare unifies module resolution between ESM & CommonJS."
+}

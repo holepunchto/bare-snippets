@@ -1,0 +1,14 @@
+{
+  "name": "addon-support-snippet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "addon": true,
+  "scripts": {},
+  "keywords": ["example", "snippet", "addon", "bare"],
+  "author": "Holepunch Inc",
+  "license": "Apache-2.0",
+  "description": "A showcase of how simple it is to write an addon for Bare which supports many engines.",
+  "devDependencies": {
+    "cmake-bare": "^1.4.3"
+  }
+}

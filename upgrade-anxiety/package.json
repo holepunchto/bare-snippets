@@ -1,0 +1,10 @@
+{
+  "name": "upgrade-anxiety",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { },
+  "keywords": ["example", "snippet", "module resolution", "bare"],
+  "author": "Holepunch Inc",
+  "license": "Apache-2.0",
+  "description": "An example of how the fact that Bare has no standard library allows for fine control of built in libraries."
+}
